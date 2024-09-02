@@ -1,6 +1,8 @@
 # Kingroon_KP3S_Marlin_Firmware
 A Marlin firmware for KP3S 3.0 3D printer
 
+Searching for firmware? Click on Releases section  ------------------------->
+
 It's for Kingroon Robin Nano v1.3 mainboard with GD32F303 chip.
 
 Based on build v2.1.2.x-bufix of 20240112
@@ -22,7 +24,7 @@ double touch select,
 
 Octoprint friendly with HOST_ACTION_COMMANDS active.
 
-Searching for firmware? Click on Releases section. 
+
 
 (*) HT-NTC 100K B3950 Thermistor with stainless steel capsule is mandatory for 350°C version.
 
