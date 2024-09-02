@@ -22,6 +22,8 @@ double touch select,
 
 Octoprint friendly with HOST_ACTION_COMMANDS active.
 
+Searching for firmware? Click on Releases section. 
+
 (*) HT-NTC 100K B3950 Thermistor with stainless steel capsule is mandatory for 350°C version.
 
 Paypal email for donations: mr.mechano@gmail.com
