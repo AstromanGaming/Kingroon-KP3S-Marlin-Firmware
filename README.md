@@ -7,7 +7,7 @@ It's for Kingroon mainboard 1.3 with GD32F303 chip.
 
 Not guaranted to work on F103, some people reported success.
 
-Based on build v2.1.2.x-bufix of 20240112
+Based on build v2.1.2.x-bufix of 20240908
 
 Main features:
 
