@@ -1,13 +1,13 @@
 # Kingroon_KP3S_Marlin_Firmware
 A Marlin firmware for KP3S 3.0 3D printer
 
+Based on build v2.1.2.x-bufix of 20240908
+
 Searching for firmware? Click on Releases section  ------------------------->
 
 It's for Kingroon mainboard 1.3 with GD32F303 chip.
 
 Not guaranted to work on F103, some people reported success.
-
-Based on build v2.1.2.x-bufix of 20240908
 
 Main features:
 
