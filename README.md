@@ -1,4 +1,4 @@
-### Kingroon-KP3S-Marlin-Firmware-Fork
+# Kingroon-KP3S-Marlin-Firmware-Fork
 A Marlin firmware for Kingroon KP3S
 
 Based on build bugfix-2.1.x (Marlin 2.1.2.5 with bug fixes) of 2025-02-02
@@ -20,10 +20,10 @@ Double touch select,
 290°C and hotend with 110°C bed,
 PLA, PETG, TPU and ABS Preheat Settings.
 
-# With BL Touch:
+### With BL Touch:
 16 pints automated bed leveling.
 
-# With Serial Port:
+### With Serial Port:
 MeatPack,
 250000 Baud rate (by default) with M575,
 Serial DMA and Advanced OK.
