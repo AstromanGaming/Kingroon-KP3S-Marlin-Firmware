@@ -7,7 +7,7 @@ It's for Kingroon mainboard 1.3 with GD32F303 chip.
 
 (OctoPrint is recommended for this Marlin Firmware)
 
-Main features:
+## Main features:
 
 Input shaping,
 Linear advance,
@@ -20,10 +20,10 @@ Double touch select,
 290°C and hotend with 110°C bed,
 PLA, PETG, TPU and ABS Preheat Settings.
 
-With BL Touch:
+### With BL Touch:
 16 pints automated bed leveling.
 
-With Serial Port:
+### With Serial Port:
 MeatPack,
 250000 Baud rate (by default) with M575,
 Serial DMA and Advanced OK.
