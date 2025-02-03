@@ -18,7 +18,7 @@ Double touch select,
 290°C and hotend with 110°C bed,
 PLA, PETG, TPU and ABS Preheat Settings.
 
-With BL Touch,
+With BL Touch:
 16 pints automated bed leveling.
 
 With Serial Port:
