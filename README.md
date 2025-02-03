@@ -5,6 +5,8 @@ Based on build bugfix-2.1.x (Marlin 2.1.2.5 with bug fixes) of 2025-02-02
 
 It's for Kingroon mainboard 1.3 with GD32F303 chip.
 
+(OctoPrint is recommended to this Marlin Firmware)
+
 Main features:
 
 Input shaping,
@@ -26,4 +28,4 @@ MeatPack,
 250000 Baud rate (by default) with M575,
 Serial DMA and Advanced OK.
 
-Octoprint friendly with HOST_ACTION_COMMANDS active.
+OctoPrint friendly with HOST_ACTION_COMMANDS active.
