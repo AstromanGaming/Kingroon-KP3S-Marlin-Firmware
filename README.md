@@ -27,5 +27,3 @@ With Serial Port:
 MeatPack,
 250000 Baud rate (by default) with M575,
 Serial DMA and Advanced OK.
-
-OctoPrint friendly with HOST_ACTION_COMMANDS active.
