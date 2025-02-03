@@ -5,7 +5,7 @@ Based on build bugfix-2.1.x (Marlin 2.1.2.5 with bug fixes) of 2025-02-02
 
 It's for Kingroon mainboard 1.3 with GD32F303 chip.
 
-(OctoPrint is recommended for this Marlin Firmware)
+(OctoPrint is recommended for these Marlin Firmwares)
 
 ## Main features:
 
