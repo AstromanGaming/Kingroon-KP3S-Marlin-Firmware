@@ -1,5 +1,5 @@
 # Kingroon-KP3S-Marlin-Firmware-Fork
-A Marlin Firmware for KP3S 3.0 3D printer
+A Marlin firmware for Kingroon KP3S
 
 Based on build bugfix-2.1.x (Marlin 2.1.2.5 with bug fixes) of 2025-02-02
 
