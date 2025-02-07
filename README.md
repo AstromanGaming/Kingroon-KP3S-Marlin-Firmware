@@ -2,6 +2,7 @@
 A Marlin firmware for Kingroon KP3S
 
 Based on build 2.1.3-b2 (Marlin 2.1.3 beta 2) of 2025-01-16
+
 Note: This branch is W.I.P.
 
 It's for Kingroon mainboard 1.3 with GD32F303 chip.
