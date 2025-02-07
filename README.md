@@ -1,7 +1,7 @@
 # Kingroon-KP3S-Marlin-Firmware-Fork
 A Marlin firmware for Kingroon KP3S
 
-Based on build bugfix-2.1.x (Marlin 2.1.2.5 with bug fixes) of 2025-02-02
+Based on build ... (...) of XXXX-XX-XX
 
 It's for Kingroon mainboard 1.3 with GD32F303 chip.
 
