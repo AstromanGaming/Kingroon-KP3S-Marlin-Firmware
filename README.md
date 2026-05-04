@@ -1,4 +1,8 @@
-# Kingroon-KP3S-Marlin-Firmware-Fork
+#### _(Under development)_
+
+## This is a Derived Project of https://github.com/mechano/Kingroon_KP3S_Marlin_Firmware
+
+# Kingroon-KP3S-Marlin-Firmware
 A Marlin firmware for Kingroon KP3S
 
 Based on build 2.1.3-b2 (Marlin 2.1.3 beta 2) of 2025-01-16
