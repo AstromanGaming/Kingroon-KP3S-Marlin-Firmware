@@ -1,3 +1,7 @@
+#### _(Under development)_
+
+## This is a Derived Project of https://github.com/mechano/Kingroon_KP3S_Marlin_Firmware
+
 # Kingroon-KP3S-Marlin-Firmware-Fork
 A Marlin firmware for Kingroon KP3S
 
